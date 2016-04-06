@@ -1,0 +1,7 @@
+/target/
+/.settings/
+/output/
+/.checkstyle
+/.classpath
+/.project
+/article_links.txt
